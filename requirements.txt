@@ -1,0 +1,5 @@
+pygame~=2.6.1
+mido~=1.2.9
+matplotlib~=3.9.2
+pandas~=2.1.4
+plotly~=5.24.1
